@@ -1,0 +1,16 @@
+   72  git add develop_test.txt
+   73  git commit -m "Test_3"
+   74  git status
+   75  git add just a small change
+   76  git status
+   77  git add develop_test.txt
+   78  git status
+   79  git commit -m "Додано рядок до develop_test.txt"
+   80  git checkout main
+   81  git merge develop
+   82  git log
+   83  history > command_history.csv
+   84  git push 
+   85  git push alina04ter@gmail.com
+   86  git history > command_history.csv
+   87  git push
