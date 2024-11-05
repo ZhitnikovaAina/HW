@@ -1,0 +1,10 @@
+   10   softwareupdate --install-rosetta --agree-to-license
+    9  beamer is built for Intel macOS and so requires Rosetta 2 to be installed.\nYou can install Rosetta 2 with:\n    softwareupdate --install-rosetta --agree-to-license\nNote that it is very difficult to remove Rosetta 2 once it is installed.
+    8  brew install --cask dbeaver-community
+    7  brew install --cask dbeaver-community
+    6  man cd
+    5  brew install --cask dbeaver-community
+    4  brew install --cask dbeaver-community
+    3  brew install --cask dbeaver-community
+    2  brew install --cask dbeaver-community
+    1  sudo spctl --master-disable
